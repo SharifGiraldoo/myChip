@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Sumador 4bit"      # Project title
+  title:        "Sumador 4bits"      # Project title
   author:       "Sharif Obando"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Sumador de 4bits en verilog"      # One line description of what your project does
