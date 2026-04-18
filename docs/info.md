@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Sumador de 4 bits
 
 ## How to test
 
-Explain how to use your project
+Ingresar una tensión alta en los pines de entrada y verificar la suma de entrada en binario en los pines de salida
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+PMOD, LED display
